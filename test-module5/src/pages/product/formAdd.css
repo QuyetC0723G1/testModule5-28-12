@@ -1,0 +1,16 @@
+.formAdd {
+    width: 400px;
+    /*border : 1px solid black;*/
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.main-formAdd {
+    display: flex;
+    justify-content: center;
+    margin: 12px;
+}
+h2 {
+    text-align: center;
+    justify-content: center;
+}
